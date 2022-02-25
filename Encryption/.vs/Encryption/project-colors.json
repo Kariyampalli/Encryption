@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce27343b-506d-4781-a3a1-d19d9fab9c47": {
+      "ProjectGuid": "ce27343b-506d-4781-a3a1-d19d9fab9c47",
+      "DisplayName": "Encryption",
+      "ColorIndex": 0
+    },
+    "f2557447-a148-4784-99ae-132e7e211959": {
+      "ProjectGuid": "f2557447-a148-4784-99ae-132e7e211959",
+      "DisplayName": "AutoKey_CipherTest",
+      "ColorIndex": 1
+    },
+    "e4efe47b-9c18-4579-892e-0168c333ac8a": {
+      "ProjectGuid": "e4efe47b-9c18-4579-892e-0168c333ac8a",
+      "DisplayName": "ChaocipherTest",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
